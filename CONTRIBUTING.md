@@ -9,9 +9,9 @@ With the exception of typos and spelling mistakes (feel free to fix these and th
 
 ## Derivatives
 
-The licence must remain in all derivatives of this work.
+The license must remain in all derivatives of this work.
 
-## Licence
+## License
 
 [![Creative Commons Licence](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
